@@ -33,7 +33,7 @@ export class StartLitElement extends LitElement {
 
     // Initialize properties
     this.loadComplete = false;
-    this.message = 'Hello World from LitElement';
+    this.message = 'Hello Glitch from LitElement';
     this.pie = false;
   }
 
