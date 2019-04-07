@@ -11,7 +11,7 @@
   "author": "The Polymer Authors",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "polymer-cli": "latest",
+    "polymer-cli": "^1.9.8",
     "@webcomponents/webcomponentsjs": "latest",
     "lit-element": "latest"
   }

@@ -8074,4 +8074,4 @@ shrinkwrapVersion: 3
 specifiers:
   '@webcomponents/webcomponentsjs': latest
   lit-element: latest
-  polymer-cli: latest
+  polymer-cli: ^1.9.8
