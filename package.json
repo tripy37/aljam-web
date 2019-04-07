@@ -5,11 +5,13 @@
   "repository": "https://github.com/PolymerLabs/start-lit-element.git",
   "main": "start-lit-element.js",
   "scripts": {
+    "start": "polymer serve --module-resolution=node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "The Polymer Authors",
   "license": "BSD-3-Clause",
   "dependencies": {
+    "polymer-cli": "latest",
     "@webcomponents/webcomponentsjs": "latest",
     "lit-element": "latest"
   }
